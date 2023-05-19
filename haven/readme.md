@@ -1,4 +1,3 @@
-
 # Haven
 ### Lobby
 [Watch this section](https://youtu.be/syPPyPdnDXY?t=73)
@@ -27,7 +26,7 @@ Given that defensive plays are somewhat hard to remember and we are not at a lev
 	* If we have Jett playing on top-site B you will be setup as described in the image, Breach towards B playing off the Jett, Killjoy holding garage and Omen holding long
 	* If we have Jett on C we can have Killjoy and Breach towards B and Omen playing in garage
 ### D2: Pistol Round Play
-![Add image here later]()
+![Defensive Pistol Round](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/HavenPistolDeffense.png)
 * [Watch this](https://youtu.be/syPPyPdnDXY?t=601)
 * This is going to probably be a Pistol Round/Eco Round play
 * Our goal is to take control of A Lobby as a team as the round starts
@@ -37,6 +36,7 @@ Given that defensive plays are somewhat hard to remember and we are not at a lev
 * If we hear the people running away or something we will just follow them as a team.
 * Killjoy is basically just passively controlling the rest of the map and relaying any information they get.
 ### D6: No Skill Rush Mid
+![No Skill Rush](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/HavenPistolDeffense.png)
 * [Watch this](https://youtu.be/syPPyPdnDXY?t=924)
 * We will probably run this play if we have Sova ult and hopefully a Killjoy Ult for retake
 * Killjoy will do a standard setup, maybe with a kill setup towards C
@@ -46,6 +46,42 @@ Given that defensive plays are somewhat hard to remember and we are not at a lev
 * After this play finishes we will probably head towards a setup similar to D1 or D3
 ### Rotations
 Spawn rotation is pretty long but we need to be careful when we rotate through B
-### Ults.
+### Ultimates
 #### Omen
 Just use your ult mostly for a fast rotate.
+#### Jett
+Use them instead of buying. It's pretty simple
+#### Sova
+We will probably run the Sova ult play
+#### Breach
+Just ult the whole site on retakes
+#### Killjoy
+Do the Killjoy ult for retakes.
+### Retakes
+#### A
+* Breach should just use their stun so it covers default and corner or from heaven down into main
+	* If your up top you can flash/aftershock into hell
+* Sova will just do the op dart lineup that scans the entire site
+#### C
+* Sova should do the crazy dart
+* If we don't have garage we can use the Breach flash
+* Breach can also use an aftershock that goes through the default plant and can aftershock the box on the back of the map
+## Offense
+### A Default
+![A default](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/ADefault.png)
+* [Watch this](https://youtu.be/syPPyPdnDXY?t=1393)
+* This default has the goal of taking the square which is very important.
+* Sova will dart either sewer or long.
+	* The long dart gives us a lot of information
+* If the dart sees someone breach should probably try to stun them
+* Omen is just vibing near c and watching for any defender aggression. You can also smoke A long if you think there is an OP there
+* Killjoy will have an Alarmbot in the window and a Killjoy turret on top of the hay bale
+* If we get control towards A we should probably just setup some crossfires
+* If we decide to do an A execute we can have Sova drone down sewer
+#### Main ideas
+* We have gained control of A main.
+	* We have a few options
+	* We can do a B-hit or a C-Split
+	* We can also go towards a A Hit
+	* If we do a A hit we can put the Killjoy turret to watch flank
+### Mid Default
