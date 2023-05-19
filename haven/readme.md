@@ -85,3 +85,40 @@ Do the Killjoy ult for retakes.
 	* We can also go towards a A Hit
 	* If we do a A hit we can put the Killjoy turret to watch flank
 ### Mid Default
+![Mid Default](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/MidDefault.png)
+* [Watch this](https://youtu.be/syPPyPdnDXY?t=1773)
+* Omen is still chilling near c
+* Killjoy has the same setup as the A default, except the alarm bot is watching A
+	* Killjoy is either holding from window or from spawn either swinging off there turret or alarm bot
+* Sova Jett and Breach are all going towards garage with the goal of destroying Sentinel Utility in Garage.
+	* Omen can smoke off Garage window and Breach can stun and everyone can clear garage.
+### A Execute
+ * [Watch this](https://youtu.be/syPPyPdnDXY?t=2022)
+ * If we don't have main/lobby control Sova can drone it 
+	 * If we have defaulted you can drone short and someone can follow it
+* Once we have long control Sova can dart onto site using a lineup
+* Breach can aftershock the box in long
+	* Breach can use the stun down towards the opening by spawn that goes through the Cubby
+	* You should also use your flash so that it flashes behind the boxes so your Jett can swing off of it
+	* You should also blind the close boxes so you can swing out.
+* Jett will dash onto site in a soke and peak the area behind the box after breach flashes it.
+* Omen can flash in the same area as the breach stun
+	* Omen will also be smoking heaven and spawn
+* Killjoy will setup the alarm bot and turret on flank and will follow a Sova drone down short and will come up and come to site from the short side
+### B Execute
+![B Execute](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/BExecute.png)
+* [Watch this](https://youtu.be/syPPyPdnDXY?t=2267)
+* We probably won't do this because the postplant is pain. So I am not going to notate this
+### C Execute
+![C Execute](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/CExecute.png)
+* [Watch this](https://youtu.be/syPPyPdnDXY?t=2441)
+* We can just do this without a default.
+* Breach will start with the stun down the left side of site
+	* He will flash behind box
+	* We can also but the aftershock behind the platform
+*  Sova will do a lineup
+* Jett is going to dash onto the default plant spot checking the left side and clearing the stunned/flashed people
+*  Omen is going to do the standard smokes and will flash in. Then you can tp onto the default plant
+### C Split
+![C Split](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/CSplit.png)
+* 
