@@ -121,4 +121,21 @@ Do the Killjoy ult for retakes.
 *  Omen is going to do the standard smokes and will flash in. Then you can tp onto the default plant
 ### C Split
 ![C Split](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/CSplit.png)
-* 
+* [Watch this](https://youtu.be/syPPyPdnDXY?t=2579)
+* If Sova has drone you can drone garage and onto site.
+* Sova will be holding window after we take garage.
+* Omen will smoke window and spawn.
+	* Omen will blind across C
+* Breach will stun C and do the aftershock towards boxes
+* Jett will dash onto site
+### Ultimates
+#### Breach
+You can use your ult to clear site
+#### Jett
+There Jett knives I shouldn't have to tell you how to use them
+#### Sova
+Postplant/free kills
+#### Omen
+You can Teleport to spawn or heaven.
+#### Killjoy
+ Do the funny lockdown for  postplant
