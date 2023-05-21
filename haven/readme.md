@@ -36,7 +36,7 @@ Given that defensive plays are somewhat hard to remember and we are not at a lev
 * If we hear the people running away or something we will just follow them as a team.
 * Killjoy is basically just passively controlling the rest of the map and relaying any information they get.
 ### D6: No Skill Rush Mid
-![No Skill Rush](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/HavenPistolDeffense.png)
+![No Skill Rush](https://raw.githubusercontent.com/roguefirework/Premier/main/haven/resources/DefenseNoSkillRush.png)
 * [Watch this](https://youtu.be/syPPyPdnDXY?t=924)
 * We will probably run this play if we have Sova ult and hopefully a Killjoy Ult for retake
 * Killjoy will do a standard setup, maybe with a kill setup towards C
